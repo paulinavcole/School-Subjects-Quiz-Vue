@@ -1,14 +1,11 @@
-# ./
+# Quiz App
 
-This template should help get you started developing with Vue 3 in Vite.
+Quiz app with search functionality. Created with Vite, Vue JS, and Vue Router. 
 
-## Recommended IDE Setup
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/68308236/201554003-e747780e-264b-458e-8a5d-32d1497ad0d7.png">
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/68308236/201554039-bcb7a127-7452-4026-85e4-a735abfd98c8.png">
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
